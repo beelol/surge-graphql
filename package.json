@@ -1,0 +1,24 @@
+{
+  "name": "surge-graphql",
+  "version": "1.0.0",
+  "description": "A graphql frontend request builder for express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/beelol/surge-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "builder",
+    "query"
+  ],
+  "author": "Bilal Itani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beelol/surge-graphql/issues"
+  },
+  "homepage": "https://github.com/beelol/surge-graphql#readme"
+}
