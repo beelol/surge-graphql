@@ -1,5 +1,7 @@
-var sendQuery = require('./sendquery')
+var sendQuery = require('./sendquery');
+var sendMutation = require('./sendmutation');
 
 module.exports = {
-  sendQuery
+  sendQuery,
+  sendMutation
 }

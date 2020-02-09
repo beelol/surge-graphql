@@ -1,4 +1,3 @@
-var Promise = require('promise');
 var fetch = require('node-fetch')
 
 sendQuery = function(url, queryString, options) {
