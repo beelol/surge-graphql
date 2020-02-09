@@ -1,6 +1,6 @@
 {
   "name": "surge-graphql",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A graphql frontend request builder for express.",
   "main": "index.js",
   "scripts": {
