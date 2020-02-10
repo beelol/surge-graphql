@@ -1,6 +1,8 @@
 var fetch = require('node-fetch')
 
 sendMutation = function(url, queryString, options) {
+  var options = typeof options !== 'undefined' ?  options : {};
+
   var defaultOptions = {
     headers: {
       'Content-Type': 'application/json',
